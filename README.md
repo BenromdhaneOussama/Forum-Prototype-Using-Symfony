@@ -1,7 +1,10 @@
 # Forum-Prototype
 -User is static
+
 -Functional search/filter functions
+
 -Functional reply system
+
 -sends email to a person notifying him he has broken TOS if the commment is deleted from the backend
 
 ![Untitled0](https://user-images.githubusercontent.com/61565747/227587077-7ed0823e-2390-480b-b695-b54585aa33e4.png)
